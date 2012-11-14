@@ -19,4 +19,4 @@ B - Changes the point of view to above the plane.
 V - Is first person view.
 N - Shows various views from outside the plane.
 Stereo:
-We also implement the project in side by side stereo that allow us to view the scene in stereo mode
+I also implement the project in side by side stereo that allow us to view the scene in stereo mode
